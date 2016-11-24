@@ -16,5 +16,12 @@ namespace PruebaGit
         {
             InitializeComponent();
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            //prubea de GitHub Cristhian fernando acosta
+            // crissv_70@live.com
+
+        }
     }
 }
